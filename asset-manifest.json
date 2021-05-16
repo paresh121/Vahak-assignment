@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/paresh121.github.io/Vahak-assignment/static/css/main.b58f4c17.chunk.css",
-    "main.js": "/paresh121.github.io/Vahak-assignment/static/js/main.121dc7da.chunk.js",
-    "main.js.map": "/paresh121.github.io/Vahak-assignment/static/js/main.121dc7da.chunk.js.map",
-    "runtime-main.js": "/paresh121.github.io/Vahak-assignment/static/js/runtime-main.4fba2572.js",
-    "runtime-main.js.map": "/paresh121.github.io/Vahak-assignment/static/js/runtime-main.4fba2572.js.map",
-    "static/js/2.d15ca4d9.chunk.js": "/paresh121.github.io/Vahak-assignment/static/js/2.d15ca4d9.chunk.js",
-    "static/js/2.d15ca4d9.chunk.js.map": "/paresh121.github.io/Vahak-assignment/static/js/2.d15ca4d9.chunk.js.map",
-    "static/js/3.9d29a3a5.chunk.js": "/paresh121.github.io/Vahak-assignment/static/js/3.9d29a3a5.chunk.js",
-    "static/js/3.9d29a3a5.chunk.js.map": "/paresh121.github.io/Vahak-assignment/static/js/3.9d29a3a5.chunk.js.map",
-    "index.html": "/paresh121.github.io/Vahak-assignment/index.html",
-    "static/css/main.b58f4c17.chunk.css.map": "/paresh121.github.io/Vahak-assignment/static/css/main.b58f4c17.chunk.css.map",
-    "static/js/2.d15ca4d9.chunk.js.LICENSE.txt": "/paresh121.github.io/Vahak-assignment/static/js/2.d15ca4d9.chunk.js.LICENSE.txt"
+    "main.css": "/Vahak-assignment/static/css/main.b58f4c17.chunk.css",
+    "main.js": "/Vahak-assignment/static/js/main.121dc7da.chunk.js",
+    "main.js.map": "/Vahak-assignment/static/js/main.121dc7da.chunk.js.map",
+    "runtime-main.js": "/Vahak-assignment/static/js/runtime-main.9a7c97dc.js",
+    "runtime-main.js.map": "/Vahak-assignment/static/js/runtime-main.9a7c97dc.js.map",
+    "static/js/2.d15ca4d9.chunk.js": "/Vahak-assignment/static/js/2.d15ca4d9.chunk.js",
+    "static/js/2.d15ca4d9.chunk.js.map": "/Vahak-assignment/static/js/2.d15ca4d9.chunk.js.map",
+    "static/js/3.9d29a3a5.chunk.js": "/Vahak-assignment/static/js/3.9d29a3a5.chunk.js",
+    "static/js/3.9d29a3a5.chunk.js.map": "/Vahak-assignment/static/js/3.9d29a3a5.chunk.js.map",
+    "index.html": "/Vahak-assignment/index.html",
+    "static/css/main.b58f4c17.chunk.css.map": "/Vahak-assignment/static/css/main.b58f4c17.chunk.css.map",
+    "static/js/2.d15ca4d9.chunk.js.LICENSE.txt": "/Vahak-assignment/static/js/2.d15ca4d9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4fba2572.js",
+    "static/js/runtime-main.9a7c97dc.js",
     "static/js/2.d15ca4d9.chunk.js",
     "static/css/main.b58f4c17.chunk.css",
     "static/js/main.121dc7da.chunk.js"
