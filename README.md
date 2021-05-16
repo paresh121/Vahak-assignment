@@ -1,2 +1,2 @@
 # Vahak-assignment
-deployed at https://github.com/paresh121/Vahak-assignment/settings/pages
+deployed at https://paresh121.github.io/Vahak-assignment/
